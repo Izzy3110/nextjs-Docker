@@ -1,5 +1,13 @@
 # nextjs-Docker
 
+
+## Installation
+````git clone https://github.com/Izzy3110/nextjs-Docker````
+
+````cd nextjs-Docker````
+
+
+
 ### Description
 Deploy a nextjs-app with docker
 -----
